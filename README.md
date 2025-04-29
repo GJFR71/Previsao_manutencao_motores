@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://github.com/GJFR71/Previsao_manutencao_motores/blob/main/Capa_Prev_Manutencao_Motores.png" width="800"/> </p>
 # 📈 Previsão de Demanda para Serviços de Manutenção – Motores e Bombas Injetoras
 
 ## 💡 Objetivo
