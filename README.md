@@ -1,7 +1,8 @@
+<p align="center"> <img src="https://github.com/GJFR71/Previsao_manutencao_motores/blob/main/Capa_Prev_Manutencao_Motores.png" width="800"/> </p>
 # 📈 Previsão de Demanda para Serviços de Manutenção – Motores e Bombas Injetoras
 
 ## 💡 Objetivo
-Prever a demanda de manutenção de motores MTU e bombas injetoras para a frota da Série Alfa, utilizando técnicas de séries temporais. O objetivo é subsidiar o planejamento logístico e otimizar a gestão de recursos.
+Prever a demanda de manutenção de motores MTU e bombas injetoras para uma frota de veículos, utilizando técnicas de séries temporais. O objetivo é subsidiar o planejamento logístico e otimizar a gestão de recursos.
 
 ## 📊 Técnicas Aplicadas
 - Modelagem de séries temporais com **ETS (Exponential Smoothing)**
@@ -27,15 +28,15 @@ O modelo ETS apresentou melhor desempenho que a média móvel simples, segundo a
 
 ## 📊 Visualizações
 
-![Série Histórica - Motores](outputs/serie_motores_mtu.png)  
+![Série Histórica - Motores](outputs/serie_motores_MTU.png)  
 *Evolução anual da demanda de manutenção de motores MTU*
 
 ![Série Histórica - Bombas](outputs/serie_bombas_mtu.png)  
 *Evolução anual da demanda de manutenção de bombas injetoras MTU*
 
 ## 📌 Observações
-Este projeto foi desenvolvido a partir de um caso real de gestão de frota do Exército Brasileiro, com os dados tratados e simulados para fins de portfólio.
+Este projeto foi desenvolvido a partir de um caso real de gestão de frota, com os dados tratados e simulados para fins de portfólio.
 
 ---
 👤 **Autor:** Glaucio Jorge Ferreira Rosa  
-🎓 Estatístico | Cientista de Dados|
+🎓 Estatístico | Cientista de Dados
